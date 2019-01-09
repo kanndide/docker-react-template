@@ -1,0 +1,8 @@
+#Docker React App
+
+##Configuration
+* Control the name of the app with the 'APPNAME' env variable
+* Project Bases - Optional project Bases
+    * Material UI - set 'MATERIAL_UI' to 'true'
+    * Bulma CSS Framework - set 'BULMA_CSS' to 'true'
+
